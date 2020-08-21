@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi! 😄
 
-<!--
-**HKang42/Hkang42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harrison, a data scientist who's passionate about machine learning and data analysis. I love learning about new ideas, techniques, and metrics. 
 
 Here are some ideas to get you started:
 
@@ -11,6 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
